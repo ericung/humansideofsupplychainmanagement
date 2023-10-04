@@ -1,4 +1,4 @@
-# The Human Side of Supply Chain
+# The Human Side of Supply Chain Management
 
 Moving packages around is easy when there is only one item being moved around, however, when there is constraints on scale, time, quality, security, and cost the problem of supply chain gets complicated.
 When there is a need to have a lot of packages being moved to many locations all at once, scale takes into account. 
