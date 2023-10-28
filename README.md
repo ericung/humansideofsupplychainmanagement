@@ -20,5 +20,3 @@ Moving packages around becomes laborious, tedious and mundane, however it provid
 The value of a single individual moving packages around is underestimated in the world of supply chain.
 
 -----
-
-The Human Side of Supply Chain Management © 2023 by Eric Ung is licensed under CC BY-NC 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/
